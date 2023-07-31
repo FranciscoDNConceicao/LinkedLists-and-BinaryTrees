@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\2ºano\2ºSemestre\Algoritma e Estruturas de Dados\Programação\Ex02\exercicio02\main.c(25,23): warning C4013: 'printIntBtreePreOrder' undefined; assuming extern returning int
+C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\2ºano\2ºSemestre\Algoritma e Estruturas de Dados\Programação\Ex02\exercicio02\main.c(28,23): warning C4013: 'printIntBTreePosOrder' undefined; assuming extern returning int
+C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\2ºano\2ºSemestre\Algoritma e Estruturas de Dados\Programação\Ex02\exercicio02\main.c(10,6): warning C4101: 'idade': unreferenced local variable
+  exercicio02.vcxproj -> C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\2ºano\2ºSemestre\Algoritma e Estruturas de Dados\Programação\Ex02\exercicio02\x64\Debug\exercicio02.exe
